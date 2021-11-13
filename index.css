@@ -43,7 +43,7 @@ a{
     margin: auto;
     border: black 1px solid;
     border-radius: .75em;
-    background-image: url(../primer-pagina/img/fondoContacto.jpg);
+    background-image: url("./img/fondoContacto.jpg");
     height: 75vh;
     width: 75vw;
     gap: 1em;
