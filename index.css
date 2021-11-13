@@ -61,6 +61,31 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .tarjetaContacto{
+    height: 200px;
+    width: 500px;
+    margin: auto;
     border: black 1px solid;
+    background-image: url('./img/fondoContacto.jpg');
+    background-size: auto;
+    background-position: center;
+    text-align: center;
+    color: blanchedalmond;
+}
 
+.itemContacto{
+    display: inline-block;
+}
+
+.icon{
+    margin-bottom: -0.75em;
+    height:40px;
+    width:auto
+}
+
+.titulo{
+    text-align: center;
+}
+
+li{
+    margin-top:.5em ;
 }
