@@ -43,7 +43,7 @@ a{
     margin: auto;
     border: black 1px solid;
     border-radius: .75em;
-    background-color: #D6DBDF;
+    background-image: url(../primer-pagina/img/fondoContacto.jpg);
     height: 75vh;
     width: 75vw;
     gap: 1em;
@@ -114,22 +114,21 @@ a{
     text-align: center;
 }
 
+.imagenBiografia{
+    width: 450px;
+    margin: 6em;
+}
 .historia{
-    display:flex;
+    display: flex;
     flex-direction: row;
     align-items: center;
 }
-
-.imagenBiografia{
-    height: 90vh;
-}
-
 .biografia{
-    margin:auto;
-    width: 40vw;
+    font-size: 3em;
     font-weight: bolder;
     font-style: oblique;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 2em;
     text-align: center;
+    width: 45vw;
+    margin: auto;
 }
